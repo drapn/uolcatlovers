@@ -1,0 +1,1 @@
+bq query --use_legacy_sql=false --format=csv 'SELECT texto, dt_registro_criado_date, dt_registro_atualizado FROM gold.cat_facts where rand() < 0.1' > extract_catfacts_10percent_data.csv

@@ -1,0 +1,30 @@
+[
+    {
+        "status": {
+            "verified": null,
+            "sentCount": 0
+        },
+        "_id": "63dfa55741856ff4a77a3225",
+        "user": "63cd8407e4049b3344974c51",
+        "text": "234234234234355.",
+        "type": "cat",
+        "deleted": false,
+        "createdAt": "2023-02-05T12:47:19.190Z",
+        "updatedAt": "2023-02-05T12:47:19.190Z",
+        "__v": 0
+    },
+    {
+        "status": {
+            "verified": null,
+            "sentCount": 0
+        },
+        "_id": "6488dd047807931a64f5d37f",
+        "user": "6477aae4dce8b01234b60b80",
+        "text": "\u0421\u043e\u043b\u043d\u0446\u0435.",
+        "type": "cat",
+        "deleted": false,
+        "createdAt": "2023-06-13T21:17:56.442Z",
+        "updatedAt": "2023-06-13T21:17:56.442Z",
+        "__v": 0
+    }
+]
